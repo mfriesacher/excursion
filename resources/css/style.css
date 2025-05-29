@@ -31,3 +31,7 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+div {
+  text-align: center;
+}
