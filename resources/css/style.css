@@ -1,12 +1,33 @@
-h1 {
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+  font-weight: normal;
+  color: white
+}
+
+header {
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
-  color: white;
+}
+
+section {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
 }
 
 a:link {
   color: aquamarine;
   font-size: 16px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
 }
